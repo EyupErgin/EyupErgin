@@ -28,7 +28,8 @@
 
   <summary>:zap: Github Stats</summary>
   <br />
-  <img align="left" alt="R4zly Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Z3DX-SOFT&show_icons=true&hide_border=false" />
+  <img align="left" alt="R4zly Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Z3DX-SOFT&show_icons=true&hide_border=false" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [Twitter]: https://twitter.com/R4zlySecurity
 [Discord]: https://discord.com/invite/elithatz/
