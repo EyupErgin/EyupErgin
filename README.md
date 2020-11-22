@@ -20,17 +20,21 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
 
+<img align="left" alt="Z3DX-SOFT Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z3DX-SOFT&layout=compact" />
 
 <br />
 <br />
 
 ---
 
-  <summary>:zap: Github Stats</summary>
-  <br />
-  <img align="left" alt="R4zly Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Z3DX-SOFT&show_icons=true&hide_border=false" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Z3DX-SOFT Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Z3DX-SOFT&show_icons=true&hide_border=false"/>
+
+</details>
 
 [Twitter]: https://twitter.com/R4zlySecurity
 [Discord]: https://discord.com/invite/elithatz/
