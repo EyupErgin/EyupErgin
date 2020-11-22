@@ -4,7 +4,6 @@
 :octocat: I'm interested in cyber security [Java].</br>
 <img align="left" alt="R4zly Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Z3DX-SOFT&show_icons=true&hide_border=false" />
 
-
 ## Contact Adress
 
 [<img align="left" alt="iletisim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
