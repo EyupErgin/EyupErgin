@@ -1,14 +1,16 @@
-<h1 align="center">Z3DX Sec. | Soft.</h1>
+<h1 align="center">Z3DX Cyber Sec. | Software Dev.</h1>
 
 ## Hacking, Pentesting and Sofware Developing
 :octocat: Go to my java lessons [Java].</br>
+:octocat: Go to my hacking tools [Tools].</br>
+:octocat: Go to my hacking tools [Tools].</br>
 :octocat: Go to my hacking tools [Tools].</br>
 
 
 ## Contact Adress
 
 [<img align="left" alt="iletisim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="iletisim | Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
+[<img align="left" alt="iletisim | Telegram" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/telegram-1867901-1580057.png" />][Discord]
 <br />
 
 ## Language and skills I know
@@ -35,6 +37,6 @@
 </details>
 
 [Twitter]: https://twitter.com/R4zlySecurity
-[Discord]: https://discord.com/invite/elithatz/
-[Java]: https://elithatz.com/
-[Tools]: https://elithatz.com/
+[Telegram]: https://t.me/z3dxsec
+[Java]: https://github.com/Z3DX-SOFT/Java
+[Tools]: 
