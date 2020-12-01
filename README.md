@@ -23,9 +23,9 @@
   <img align="left" alt="Z3DX-SOFT Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Z3DX-SOFT&show_icons=true&hide_border=false" />
 
 </details>
-[Java]: https://twitter.com/Z3DX2
 [Twitter]: https://twitter.com/Z3DX2
 [Telegram]: https://t.me/z3dxsec
+[Java]: https://twitter.com/Z3DX2
 [DefaceTools]: https://github.com/Z3DX-SOFT/Java
 [Blog]: https://github.com/Z3DX-SOFT/Java
 [CyberSecurity]: https://github.com/Z3DX-SOFT/Java
