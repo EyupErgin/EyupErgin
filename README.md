@@ -18,4 +18,7 @@
 
 [Twitter]: https://twitter.com/Z3DX2
 [Telegram]: https://t.me/z3dxsec
-
+[Java]: https://www.t.me/keyiflerolsun
+[DefaceTool]: https://www.t.me/keyiflerolsun
+[Blog]: https://www.t.me/keyiflerolsun
+[CyberSecurity]: https://www.t.me/keyiflerolsun
