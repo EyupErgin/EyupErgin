@@ -12,7 +12,6 @@
 [<img align="left" alt="iletisim | Telegram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111708.svg" />][Telegram]<br />
 
 ## Language and skills I know
-<br />
   <summary>:fire: Github Stats</summary>
 
   <img align="left" alt="Z3DX-SOFT Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Z3DX-SOFT&show_icons=true&hide_border=false" />
