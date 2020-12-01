@@ -2,16 +2,14 @@
 
 ## Hacking, Pentesting and Sofware Developing
 :octocat: Go to my java lessons [Java].</br>
-:octocat: Go to my hacking tools [Tools].</br>
-:octocat: Go to my hacking tools [Tools].</br>
-:octocat: Go to my hacking tools [Tools].</br>
-
+:octocat: Go to my hacking tools [Blog].</br>
+:octocat: Go to my hacking tools [DefaceTools].</br>
+:octocat: Go to my hacking tools [CyberSecurity].</br>
 
 ## Contact Adress
 
 [<img align="left" alt="iletisim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="iletisim | Telegram" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/telegram-1867901-1580057.png" />][Discord]
-<br />
+[<img align="left" alt="iletisim | Telegram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111708.svg" />][Telegram]<br />
 
 ## Language and skills I know
 
