@@ -2,9 +2,9 @@
 
 ## Hacking, Pentesting and Sofware Developing
 :octocat: Go to my java lessons [Java].</br>
-:octocat: Go to my hacking tools [Blog].</br>
 :octocat: Go to my hacking tools [DefaceTools].</br>
-:octocat: Go to my hacking tools [CyberSecurity].</br>
+:octocat: Go to my hacking and programming blog [Blog].</br>
+:octocat: Go to my cyber security blog [CyberSecurity].</br>
 
 ## Contact Adress
 
@@ -14,8 +14,6 @@
 ## Language and skills I know
 
 <br />
-<br />
-
 ---
 
 
