@@ -25,8 +25,4 @@
 </details>
 [Twitter]: https://twitter.com/Z3DX2
 [Telegram]: https://t.me/z3dxsec
-[Java]: https://twitter.com/Z3DX2
-[DefaceTools]: https://github.com/Z3DX-SOFT/Java
-[Blog]: https://github.com/Z3DX-SOFT/Java
-[CyberSecurity]: https://github.com/Z3DX-SOFT/Java
 
