@@ -13,7 +13,7 @@
 
 ## Language and skills I know
 <br />
-  <summary>:zap: Github Stats</summary>
+  <summary>:fire: Github Stats</summary>
 
   <img align="left" alt="Z3DX-SOFT Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Z3DX-SOFT&show_icons=true&hide_border=false" />
 
