@@ -2,9 +2,14 @@
 
 ## Hacking, Pentesting and Sofware Developing
 :octocat: Go to my Java lessons [Java].</br>
+:octocat: Go to my Java RoadMap [Java1].</br>
+:octocat: Go to my Pentest Lesson[Pentest0].</br>
+:octocat: Go to my Pentest RoadMap [Pentest1].</br>
 :octocat: Go to my Medium page [Medium].</br>
-:octocat: Go to my hacking and software blog [Blog].</br>
-:octocat: Go to my cyber security blog [CyberSecurity].</br>
+:octocat: Go to my Websites [Blog].</br>
+:octocat: Go to my BugBounty Roadmap [CyberSecurity0].</br>
+:octocat: Go to my Bugcrowd profile [CyberSecurity1].</br>
+:octocat: Go to my Hackerone profile [CyberSecurity2].</br>
 
 ## Contact Adress
 
@@ -25,7 +30,12 @@
 [Twitter]: https://twitter.com/Z3DX2
 [Telegram]: https://t.me/z3dxsec
 [Java]: https://github.com/Z3DX2/Java
+[Java1]: https://github.com/Z3DX2/Java
 [Medium]: https://medium.com/@z3dxsec
-[Blog]: https://github.com/Z3DX-SOFT/
+[Blog]: https://github.com/Z3DX2/
 [DevTo]: https://dev.to/z3dxsoft
-[CyberSecurity]: https://github.com/Z3DX-SOFT/
+[Pentest0]: https://dev.to/z3dxsoft
+[Pentest1]: https://dev.to/z3dxsoft
+[CyberSecurity0]: https://github.com/Z3DX2/
+[CyberSecurity1]: https://github.com/Z3DX2/
+[CyberSecurity2]: https://github.com/Z3DX2/
