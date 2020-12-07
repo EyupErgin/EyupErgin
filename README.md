@@ -11,9 +11,9 @@
 [<img align="left" alt="iletisim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="iletisim | Telegram" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111708.svg" />][Telegram]<br />
 
-[<img align="left" alt="iletisim | Medium" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />][Medium]<br />
-
 [<img align="left" alt="iletisim | DevTo" width="25px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" />][DevTo]<br />
+
+[<img align="left" alt="iletisim | Medium" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />][Medium]<br />
 
 
 ## Language and skills I know
