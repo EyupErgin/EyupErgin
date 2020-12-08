@@ -11,6 +11,12 @@
 :octocat: Go to my Bugcrowd profile [CyberSecurity1].</br>
 :octocat: Go to my Hackerone profile [CyberSecurity2].</br>
 
+## Last 5 Blog Entries
+
+- [Google ile Hedef Site/Sunucuda Apache Server Struts RCE Zaafiyetini Bulmak]
+- [Google ile Hedef Sitede PHP İnfo Dizinini Bulmak]
+- [Google İle Hedef Sitede SQL Hatalarını Bulmak]
+
 ## Contact Adress
 
 [<img align="left" alt="iletisim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
@@ -39,3 +45,8 @@
 [CyberSecurity0]: https://github.com/Z3DX2/
 [CyberSecurity1]: https://github.com/Z3DX2/
 [CyberSecurity2]: https://github.com/Z3DX2/
+
+[Google ile Hedef Site/Sunucuda Apache Server Struts RCE Zaafiyetini Bulmak]: https://z3dxsec.medium.com/google-ile-hedef-site-sunucuda-apache-server-struts-rce-zaafiyetini-bulmak-286def1dce39
+[Google ile Hedef Sitede PHP İnfo Dizinini Bulmak]: https://z3dxsec.medium.com/google-ile-hedef-sitede-php-i%CC%87nfo-dizinini-bulmak-fbfd1c961e87
+[Google İle Hedef Sitede SQL Hatalarını Bulmak]: https://z3dxsec.medium.com/google-i%CC%87le-hedef-sitede-sql-hatalar%C4%B1n%C4%B1-bulmak-9d0063081158
+
