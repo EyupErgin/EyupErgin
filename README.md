@@ -31,7 +31,7 @@
 [Telegram]: https://t.me/z3dxsec
 [Java]: https://github.com/Z3DX2/Java
 [Java1]: https://github.com/Z3DX2/Java
-[Medium]: https://medium.com/@z3dxsec
+[Medium]: https://z3dxsec.medium.com/
 [Blog]: https://github.com/Z3DX2/
 [DevTo]: https://dev.to/z3dxsoft
 [Pentest0]: https://dev.to/z3dxsoft
