@@ -1,4 +1,4 @@
-<h1 align="center">Z3DX Cyber Sec. | Software Dev.</h1>
+<h1 align="center">Eyüp Şükrü Ergin</h1>
 
 ## Hacking, Pentesting and Sofware Developing
 :octocat: Go to my Websites [Blog].</br>
