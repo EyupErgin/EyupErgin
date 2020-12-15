@@ -1,15 +1,10 @@
 <h1 align="center">Z3DX Cyber Sec. | Software Dev.</h1>
 
 ## Hacking, Pentesting and Sofware Developing
-:octocat: Go to my Java lessons [Java].</br>
-:octocat: Go to my Java RoadMap [Java1].</br>
-:octocat: Go to my Pentest Lesson[Pentest0].</br>
-:octocat: Go to my Pentest RoadMap [Pentest1].</br>
-:octocat: Go to my Medium page [Medium].</br>
 :octocat: Go to my Websites [Blog].</br>
-:octocat: Go to my BugBounty Roadmap [CyberSecurity0].</br>
-:octocat: Go to my Bugcrowd profile [CyberSecurity1].</br>
-:octocat: Go to my Hackerone profile [CyberSecurity2].</br>
+:octocat: Go to my Medium page [Medium].</br>
+:octocat: Go to my DevTo page [DevTo].</br>
+:octocat: Go to my Java lessons [Java].</br>
 
 ## Last 5 Blog Entries
 
