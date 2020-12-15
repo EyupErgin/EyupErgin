@@ -1,4 +1,6 @@
 <h1 align="center">Eyüp Şükrü Ergin</h1>
+<h3 align="center">Pentester, Software Engineer. Java, C#, Python Dev.</h3>
+
 
 ## Hacking, Pentesting and Sofware Developing
 :octocat: Go to my Websites [Blog].</br>
@@ -25,8 +27,8 @@
 ## Language and skills I know
   <summary>:fire: Github Stats</summary>
 
-  <img align="left" alt="Z3DX-SOFT Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Z3DX2&show_icons=true&hide_border=false" />
-  <img align="left" alt="Z3DX-SOFT Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z3DX2&layout=demo" />
+  <img align="left" alt="Z3DX-SOFT Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EyupErgin&show_icons=true&hide_border=false" />
+  <img align="left" alt="Z3DX-SOFT Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=demo" />
   
 [Twitter]: https://twitter.com/Z3DX2
 [Telegram]: https://t.me/z3dxsec
