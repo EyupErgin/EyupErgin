@@ -3,7 +3,7 @@
 
 
 ## Hacking, Pentesting and Sofware Developing
-:octocat: Go to my Websites [Blog].</br>
+:octocat: Go to my [Websites].</br>
 :octocat: Go to my Medium page [Medium].</br>
 :octocat: Go to my DevTo page [DevTo].</br>
 :octocat: Go to my Java lessons [Java].</br>
@@ -35,7 +35,7 @@
 [Java]: https://github.com/Z3DX2/Java
 [Java1]: https://github.com/Z3DX2/Java
 [Medium]: https://z3dxsec.medium.com/
-[Blog]: https://github.com/Z3DX2/
+[Websites]: https://eyupergin.gitbook.io/
 [DevTo]: https://dev.to/z3dxsoft
 [Pentest0]: https://dev.to/z3dxsoft
 [Pentest1]: https://dev.to/z3dxsoft
