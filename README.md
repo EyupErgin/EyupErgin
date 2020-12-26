@@ -27,17 +27,5 @@
   <img align="left" alt="EyupErgin Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EyupErgin&show_icons=true&hide_border=false" />
   <img align="left" alt="EyupErgin Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=demo" />
   
-[Twitter]: https://twitter.com/Z3DX2
-[Telegram]: https://t.me/z3dxsec
-[Java]: https://github.com/Z3DX2/Java
-[Java1]: https://github.com/Z3DX2/Java
-[Medium]: https://z3dxsec.medium.com/
-[Websites]: https://eyupergin.gitbook.io/
-[DevTo]: https://dev.to/z3dxsoft
-[Pentest0]: https://dev.to/z3dxsoft
-[Pentest1]: https://dev.to/z3dxsoft
-[CyberSecurity0]: https://github.com/Z3DX2/
-[CyberSecurity1]: https://github.com/Z3DX2/
-[CyberSecurity2]: https://github.com/Z3DX2/
 
 
