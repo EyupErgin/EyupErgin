@@ -2,9 +2,9 @@
 <h3 align="center">Pentester, Software Engineer. Java, C#, C++, Python Dev.</h3>
 
 ---
-:octocat: My Github Profile [Github]
-:sunglasses: My LinledIn Profile [LinkeIn]
-:rocket: My OpenSource Rocket Science Simulation Project Page [@OpenTraj]
+:octocat: My Github Profile [Github]</br>
+:sunglasses: My LinledIn Profile [LinkeIn]</br>
+:rocket: My OpenSource Rocket Science Simulation Project Page [@OpenTraj]</br>
 
 <h2 align="center">Contact Adress</h2>
 <div align="center">
