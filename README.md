@@ -3,9 +3,7 @@
 
 ---
 :octocat: My Github Profile [Github]
-
 :sunglasses: My LinledIn Profile [LinkeIn]
-
 :rocket: My OpenSource Rocket Science Simulation Project Page [@OpenTraj]
 
 <h2 align="center">Contact Adress</h2>
