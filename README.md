@@ -12,6 +12,11 @@
   <a target="_blank" href="https://www.facebook.com/keyiflerolsun">   <img  alt="iletisim | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"></a>
 </div>
 
+<div align="center">
+  
+![keyiflerolsun'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=keyiflerolsun&show_icons=true&theme=dark)
+
+</div>
 
 
 
