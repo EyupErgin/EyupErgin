@@ -4,7 +4,10 @@
 ---
 :octocat: My Github Profile [Github]
 
----
+:sunglasses: My LinledIn Profile [LinkeIn]
+
+:rocket: My OpenSource Rocket Science Simulation Project Page [@OpenTraj]
+
 <h2 align="center">Contact Adress</h2>
 <div align="center">
   <a target="_blank" href="https://tr.linkedin.com/in/keyiflerolsun"> <img alt="iletisim | Linkedin"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg"></a> 
@@ -25,10 +28,12 @@
 
 <div align="center">
 
-  ![keyiflerolsun'un En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=demo&theme=dark)
+![keyiflerolsun'un En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=demo&theme=dark)
 
 </div>
 
 
 
 [Github]: https://github.com/EyupErgin
+[LinkeIn]: https://www.linkedin.com/in/eyupergin/
+[@OpenTraj]: https://github.com/OpenTraj
