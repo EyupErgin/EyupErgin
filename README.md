@@ -2,7 +2,9 @@
 <h3 align="center">Pentester, Software Engineer. Java, C#, C++, Python Dev.</h3>
 
 ---
-:octocat: My Github Profile [Github]</br>
+:octocat:My Website [EyupErgin]</br>
+:octocat:My Github Profile [Github]</br>
+:octocat:My Gitlab Profile[Gitlab]</br> 
 :sunglasses: My LinledIn Profile [LinkeIn]</br>
 :rocket: My OpenSource Rocket Science Simulation Project Page [@OpenTraj]</br>
 
@@ -33,5 +35,7 @@
 
 
 [Github]: https://github.com/EyupErgin
+[Gitlab]: https://gitlab.com/EyupErgin
 [LinkeIn]: https://www.linkedin.com/in/eyupergin/
 [@OpenTraj]: https://github.com/OpenTraj
+[EyupErgin]: https://eyupergin.github.io/
