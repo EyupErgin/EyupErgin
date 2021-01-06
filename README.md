@@ -14,7 +14,13 @@
 
 <div align="center">
   
-![keyiflerolsun'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=keyiflerolsun&show_icons=true&theme=dark)
+![keyiflerolsun'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=EyupErgin&show_icons=true&theme=dark)
+
+</div>
+
+<div align="center">
+
+  ![keyiflerolsun'un En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=demo&theme=dark)
 
 </div>
 
