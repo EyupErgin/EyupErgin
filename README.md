@@ -25,7 +25,7 @@
   <summary>:fire: Github Stats</summary>
 
   <img align="left" alt="EyupErgin Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EyupErgin&show_icons=true&hide_border=false" />
-  <img align="left" alt="EyupErgin Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=demo" />
+  <img align="left" alt="EyupErgin Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=compact" />
   
 
 
