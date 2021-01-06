@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="center">-- Skills --</h3>
+<h2 align="center">Contact Adress</h2>
 <div align="center">
   <a target="_blank" href="https://tr.linkedin.com/in/keyiflerolsun"> <img alt="iletisim | Linkedin"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg"></a>
   <a target="_blank" href="https://www.t.me/keyiflerolsun">           <img  alt="iletisim | Telegram" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111708.svg"></a>
