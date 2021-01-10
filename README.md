@@ -9,8 +9,7 @@
 
 <h2 align="center">Contact Adress</h2>
 <div align="center">
-  <a target="_blank" href="https://tr.linkedin.com/in/keyiflerolsun"> <img alt="iletisim | Linkedin"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg"></a> 
-
+  <a target="_blank" href="https://github.com/EyupErgin"> <img alt="iletisim | Github"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733609.svg"></a> 
 
 
 </div>
