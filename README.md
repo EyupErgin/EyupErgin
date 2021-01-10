@@ -10,6 +10,11 @@
 <h2 align="center">Contact Adress</h2>
 <div align="center">
   <a target="_blank" href="https://github.com/EyupErgin"> <img alt="iletisim | Github"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733609.svg"></a> 
+  <a target="_blank" href="https://www.youtube.com/"> <img alt="iletisim | Youtube"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733646.svg"></a> 
+  
+  <a target="_blank" href="https://github.com/EyupErgin"> <img alt="iletisim | Github"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733609.svg"></a> 
+  
+  <a target="_blank" href="https://github.com/EyupErgin"> <img alt="iletisim | Github"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733609.svg"></a> 
 
 
 </div>
