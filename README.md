@@ -7,9 +7,25 @@
 :sunglasses: My LinledIn Profile [LinkeIn]</br>
 :rocket: My OpenSource Rocket Science Simulation Project Page [@OpenTraj]</br>
 
-<h2 align="center">Contact Adress</h2>
+<h2 align="center">Social Pages</h2>
 <div align="center">
   <a target="_blank" href="https://github.com/EyupErgin"> <img alt="iletisim | Github"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111432.svg"></a> 
+  
+  <a target="_blank" href="https://stackoverflow.com/users/14971651/eyup-sukru-ergin"> <img alt="iletisim | StackOwerflov"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111690.svg"></a> 
+  
+  <a target="_blank" href="https://www.linkedin.com/in/eyupergin/"> <img alt="iletisim | Linkedin"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111532.svg"></a> 
+  
+  <a target="_blank" href="https://youtube.com/"> <img alt="iletisim | Youtbe"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111795.svg"></a> 
+  
+  <a target="_blank" href=""> <img alt="iletisim | Github"  width="30px" src=""></a> 
+
+  <a target="_blank" href=""> <img alt="iletisim | Github"  width="30px" src=""></a> 
+
+  <a target="_blank" href=""> <img alt="iletisim | Github"  width="30px" src=""></a> 
+
+  <a target="_blank" href=""> <img alt="iletisim | Github"  width="30px" src=""></a> 
+
+
 
 </div>
 
