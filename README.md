@@ -18,7 +18,9 @@
   <a target="_blank" href="https://eyupergin.github.io/"> <img alt="iletisim | Github"  width="30px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-networking-1.png&r=0&g=0&b=0"></a> 
 
 
-<h2 align="center">Stats</h2>
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px">Stats</summary>
+
 
 </div>
 
@@ -33,6 +35,7 @@
 ![Eyüp Şükrü Ergin'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=compact&theme=dark)
 
 </div>
+</details>
 
 
 [@OpenTraj]: https://gitlab.com/OpenTraj
