@@ -5,7 +5,7 @@
 :octocat:My Github Profile [Github]</br>
 :octocat:My Gitlab Profile[Gitlab]</br> 
 :sunglasses: My LinledIn Profile [LinkeIn]</br>
-:rocket: My OpenSource Rocket Science Simulation Project Page @OpenTraj </br>
+:rocket: My OpenSource Rocket Science Simulation Project Page [@OpenTraj]</br>
 
 <h2 align="center">Social Pages</h2>
 <div align="center">
@@ -32,7 +32,7 @@
 </div>
 
 
-
+[@OpenTraj]: https://gitlab.com/OpenTraj
 [Github]: https://github.com/EyupErgin
 [Gitlab]: https://gitlab.com/EyupErgin
 [LinkeIn]: https://www.linkedin.com/in/eyupergin/
