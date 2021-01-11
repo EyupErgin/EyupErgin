@@ -19,19 +19,10 @@
 
 
 <details align="center">
-  <summary style="font-weight: bold; font-size: 18px">Stats</summary>
-  
-</div>
-<div align="center">
-  
-![Eyüp Şükrü Ergin'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=EyupErgin&show_icons=true&theme=dark)
+  <summary style="font-weight: bold; font-size: 18px">GitHub İstatistikleri</summary>
 
-</div>
-<div align="center">
-
-![Eyüp Şükrü Ergin'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=compact&theme=dark)
-
-</div>
+  ![keyiflerolsun'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=keyiflerolsun&show_icons=true&theme=dark)
+  ![keyiflerolsun'un En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=keyiflerolsun&layout=compact&theme=dark)
 
 </details>
 
