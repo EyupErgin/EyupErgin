@@ -27,7 +27,7 @@
 
 <div align="center">
 
-![Eyüp Şükrü Ergin'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=demo&theme=dark)
+![Eyüp Şükrü Ergin'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=compact&theme=dark)
 
 </div>
 
