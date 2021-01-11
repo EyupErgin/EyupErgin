@@ -1,10 +1,10 @@
 <h1 align="center">Eyüp Şükrü Ergin</h1>
 <h3 align="center">Pentester, Software Engineer. Java, C#, C++, Python Dev.</h3>
 
-:octocat:My Website [EyupErgin]</br>
+:sunglasses:My Website [EyupErgin]</br>
 :octocat:My Github Profile [Github]</br>
 :octocat:My Gitlab Profile[Gitlab]</br> 
-:sunglasses: My LinledIn Profile [LinkeIn]</br>
+:octocat: My LinledIn Profile [LinkeIn]</br>
 :rocket: My OpenSource Rocket Science Simulation Project Page [@OpenTraj]</br>
 
 <h2 align="center">Social Pages</h2>
@@ -21,13 +21,13 @@
 
 <div align="center">
   
-![keyiflerolsun'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=EyupErgin&show_icons=true&theme=dark)
+![Eyüp Şükrü Ergin'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=EyupErgin&show_icons=true&theme=dark)
 
 </div>
 
 <div align="center">
 
-![keyiflerolsun'un En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=demo&theme=dark)
+![Eyüp Şükrü Ergin'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=demo&theme=dark)
 
 </div>
 
