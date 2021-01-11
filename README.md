@@ -20,21 +20,19 @@
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">Stats</summary>
-
-
+  
 </div>
-
 <div align="center">
   
 ![Eyüp Şükrü Ergin'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=EyupErgin&show_icons=true&theme=dark)
 
 </div>
-
 <div align="center">
 
 ![Eyüp Şükrü Ergin'in En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=EyupErgin&layout=compact&theme=dark)
 
 </div>
+
 </details>
 
 
