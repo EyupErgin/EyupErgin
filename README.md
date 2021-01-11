@@ -1,13 +1,7 @@
 <h1 align="center">Eyüp Şükrü Ergin</h1>
 <h3 align="center">Pentester, Software Engineer. Java, C#, C++, Python Dev.</h3>
 
-:sunglasses:My Website [EyupErgin]</br>
-:octocat:My Github Profile [Github]</br>
-:octocat:My Gitlab Profile[Gitlab]</br> 
-:octocat: My LinledIn Profile [LinkeIn]</br>
-:rocket: My OpenSource Rocket Science Simulation Project Page [@OpenTraj]</br>
-
-<h2 align="center">Social Pages</h2>
+<h2 align="center">Pages</h2>
 <div align="center">
   <a target="_blank" href="https://github.com/EyupErgin"> <img alt="iletisim | Github"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111432.svg"></a> 
     
@@ -16,6 +10,12 @@
   <a target="_blank" href="https://twitter.com/"> <img alt="iletisim | Twitter"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/49/49351.svg"></a> 
   <a target="_blank" href="https://youtube.com/"> <img alt="iletisim | Youtube"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/49/49411.svg"></a> 
   <a target="_blank" href="https://eyupergin.github.io/"> <img alt="iletisim | Github"  width="30px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-networking-1.png&r=0&g=0&b=0"></a> 
+
+:sunglasses:My Website [EyupErgin]</br>
+:octocat:My Github Profile [Github]</br>
+:octocat:My Gitlab Profile[Gitlab]</br> 
+:octocat: My LinledIn Profile [LinkeIn]</br>
+:rocket: My OpenSource Rocket Science Simulation Project Page [@OpenTraj]</br>
 
 <h2 align="center">Stats</h2>
 
