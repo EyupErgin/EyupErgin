@@ -11,7 +11,7 @@
 <div align="center">
   <a target="_blank" href="https://github.com/EyupErgin"> <img alt="iletisim | Github"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111432.svg"></a> 
     
-  <a target="_blank" href="https://stackoverflow.com/users/14971651/eyup-sukru-ergin"> <img alt="iletisim | StackOwerflov"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111690.svg"></a> 
+  <a target="_blank" href="https://stackoverflow.com/users/14971651/eyup-sukru-ergin"> <img alt="iletisim | StackOwerflov"  width="30px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-stackoverflow-4.png&r=0&g=0&b=0"></a> 
   <a target="_blank" href="https://www.linkedin.com/in/eyupergin/"> <img alt="iletisim | Linkedin"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg"></a> 
   <a target="_blank" href="https://twitter.com/"> <img alt="iletisim | Twitter"  width="30px" src="https://www.flaticon.com/svg/static/icons/svg/49/49351.svg"></a> 
   
