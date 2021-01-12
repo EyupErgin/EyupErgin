@@ -1,7 +1,7 @@
 <h1 align="center">Eyüp Şükrü Ergin</h1>
 <h3 align="center">Pentester, Software Engineer. Java, C#, C++, Python Dev.</h3>
 
-:sunglasses:My Website [EyupErgin]</br>
+:sunglasses: My Website [EyupErgin]</br>
 :octocat:My Github Profile [Github]</br>
 :octocat:My Gitlab Profile[Gitlab]</br> 
 :octocat:My LinledIn Profile [LinkeIn]</br>
