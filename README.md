@@ -4,7 +4,7 @@
 :sunglasses:My Website [EyupErgin]</br>
 :octocat:My Github Profile [Github]</br>
 :octocat:My Gitlab Profile[Gitlab]</br> 
-:octocat: My LinledIn Profile [LinkeIn]</br>
+:octocat:My LinledIn Profile [LinkeIn]</br>
 :rocket: My OpenSource Rocket Science Simulation Project Page [@OpenTraj]</br>
 
 <h2 align="center">Pages</h2>
