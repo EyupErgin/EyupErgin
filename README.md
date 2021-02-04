@@ -8,6 +8,7 @@
 [![](https://img.shields.io/github/stars/EyupErgin?style=social)](https://www.github.com/EyupErgin)
 [![](https://img.shields.io/github/sponsors/EyupErgin?style=social)](https://www.github.com/EyupErgin)
 
+[![](https://img.shields.io/badge/%20My%20Website-%2312100E.svg?&style=for-the-badge&logo=web&logoColor=black&color=blue)](https://www.linkedin.com/in/eyupergin/)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyupergin/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://eyupergin.medium.com/)
