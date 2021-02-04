@@ -1,10 +1,10 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=EyupErgin&show_icons=true">
 
 # Merhaba, ben Mert Cobanov! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
 
 [![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov)
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/cobanov)
+[![](https://img.shields.io/github/followers/EyupErgin?style=social)](https://www.github.com/EyupErgin)
 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/mertcobanov)
