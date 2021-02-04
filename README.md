@@ -3,7 +3,7 @@
 # Merhaba, ben Mert Cobanov! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
 
-[![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov)
+<!-- [![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov) -->
 [![](https://img.shields.io/github/followers/EyupErgin?style=social)](https://www.github.com/EyupErgin)
 
 
