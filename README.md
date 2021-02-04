@@ -2,7 +2,6 @@
 
 # Merhaba, ben     Eyüp Şükrü Ergin! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EyupErgin" alt="EyupErgin" /> </p>
-
 <!-- [![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov) -->
 [![](https://img.shields.io/github/followers/EyupErgin?style=social)](https://www.github.com/EyupErgin)
 [![](https://img.shields.io/github/sponsors/EyupErgin?style=social)](https://www.github.com/EyupErgin)
