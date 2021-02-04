@@ -7,6 +7,7 @@
 [![](https://img.shields.io/github/followers/EyupErgin?style=social)](https://www.github.com/EyupErgin)
 [![](https://img.shields.io/github/stars/EyupErgin?style=social)](https://www.github.com/EyupErgin)
 [![](https://img.shields.io/github/sponsors/EyupErgin?style=social)](https://www.github.com/EyupErgin)
+
 [![](https://img.shields.io/badge/%20My%20Website-%2312100E.svg?&style=for-the-badge&logo=web&logoColor=black&color=blue)](https://eyupergin.com/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyupergin/)
 [![](https://img.shields.io/badge/Telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=black&color=25b1e4)](https://t.me/)
