@@ -5,6 +5,7 @@
 
 <!-- [![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov) -->
 [![](https://img.shields.io/github/followers/EyupErgin?style=social)](https://www.github.com/EyupErgin)
+[![](https://img.shields.io/github/stars/EyupErgin?style=social)](https://www.github.com/EyupErgin)
 [![](https://img.shields.io/github/sponsors/EyupErgin?style=social)](https://www.github.com/EyupErgin)
 
  <!--[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/mertcobanov) -->
