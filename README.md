@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=EyupErgin&show_icons=true">
 
-# Merhaba, ben   Eyüp Şükrü Ergin! 
+# Merhaba, ben     Eyüp Şükrü Ergin! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EyupErgin" alt="EyupErgin" /> </p>
 
 <!-- [![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov) -->
