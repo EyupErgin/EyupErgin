@@ -12,6 +12,6 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyupergin/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://eyupergin.medium.com/)
  <!-- [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mertcobanov) -->
-[![Mail Badge](https://img.shields.io/badge/eyupsukruergin@outlook.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eyupsukruergin@outlook.com)](mailto:eyupsukruergin@outlook.com))
+[![Mail Badge](https://img.shields.io/badge/eyupsukruergin@outlook.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eyupsukruergin@outlook.com)](mailto:eyupsukruergin@outlook.com)
 
 
