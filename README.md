@@ -17,6 +17,5 @@
 [![](https://img.shields.io/badge/Stack%20overflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=f48024)](https://stackoverflow.com/users/14971651/eyup-sukru-ergin)
 
 [![](https://img.shields.io/badge/Hackerone-%2312100E.svg?&style=for-the-badge&logo=hackerone&logoColor=white&color=000000)](https://hackerone.com/)
-[![](https://img.shields.io/badge/bugcrowd-%2312100E.svg?&style=for-the-badge&logo=bugcrowd&logoColor=orange&color=000000)](https://bugcrowd.com/)
 [![Mail Badge](https://img.shields.io/badge/bussines@eyupergin.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bussines@eyupergin.com)](mailto:bussines@eyupergin.com)
 
