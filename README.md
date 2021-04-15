@@ -1,9 +1,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=EyupErgin&show_icons=true">
 
 # Merhaba, ben     Eyüp Şükrü Ergin! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EyupErgin" alt="EyupErgin" /> </p>
+<a  href ="https://www.codewars.com/users/cihatdev"> <img align="left" src="https://www.codewars.com/users/cihatdev/badges/micro"><a/>
+<p> <img src="https://komarev.com/ghpvc/?username=EyupErgin" alt="EyupErgin" /> </p>
 
-<!-- [![](https://img.shields.io/twitter/follow/user?style=social)](https://www.twitter.com/user) -->
 [![](https://img.shields.io/github/followers/EyupErgin?style=social)](https://www.github.com/EyupErgin)
 [![](https://img.shields.io/github/stars/EyupErgin?style=social)](https://www.github.com/EyupErgin)
 [![](https://img.shields.io/github/sponsors/EyupErgin?style=social)](https://www.github.com/EyupErgin)
