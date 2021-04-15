@@ -20,10 +20,6 @@
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/)
 [![](https://img.shields.io/badge/Stack%20overflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=f48024)](https://stackoverflow.com/users/14971651/eyup-sukru-ergin)
 
-<a href="#">
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EyupErgin&layout=compact" />
-</a>
-
 [![](https://img.shields.io/badge/Hackerone-%2312100E.svg?&style=for-the-badge&logo=hackerone&logoColor=white&color=000000)](https://hackerone.com/)
 [![Mail Badge](https://img.shields.io/badge/bussines@eyupergin.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bussines@eyupergin.com)](mailto:bussines@eyupergin.com)
 
