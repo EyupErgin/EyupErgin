@@ -11,9 +11,7 @@
 [![](https://img.shields.io/badge/%20My%20Website-%2312100E.svg?&style=for-the-badge&logo=web&logoColor=black&color=blue)](https://eyupergin.com/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyupergin/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/eyupsukruergin)
-<a href="#">
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EyupErgin&layout=compact" />
-</a>
+<a href="https://github.com/eyupergin/"> <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EyupErgin&layout=compact" /> </a>
 [![](https://img.shields.io/badge/Telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=black&color=25b1e4)](https://t.me/EyupErgin)
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/)
