@@ -1,4 +1,4 @@
-<a  href ="https://www.github.com/EyupErgin"> <img align="center" src="https://github.com/EyupErgin/EyupErgin/blob/main/img/1d957f102222497.png?raw=true"><a/>
+<-- <a  href ="https://www.github.com/EyupErgin"> <img align="center" src="https://github.com/EyupErgin/EyupErgin/blob/main/img/1d957f102222497.png?raw=true"><a/> -->
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=EyupErgin&show_icons=true">
