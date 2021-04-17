@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=EyupErgin&show_icons=true">
 
-# Merhaba, ben     Eyüp Şükrü Ergin! 
+# Hi! My Name is Eyüp Şükrü Ergin! 
 <a  href ="https://www.codewars.com/users/EyupErgin"> <img align="left" src="https://www.codewars.com/users/EyupErgin/badges/micro"><a/>
 <p> <img src="https://komarev.com/ghpvc/?username=EyupErgin" alt="EyupErgin" /> </p>
 
