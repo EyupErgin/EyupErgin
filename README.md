@@ -5,6 +5,7 @@ Coffee :coffee: is how I keep up with `{code}`
 
 <a  href ="https://www.codewars.com/users/EyupErgin"> <img align="left" src="https://www.codewars.com/users/EyupErgin/badges/micro"><a/>
 <p> <img src="https://komarev.com/ghpvc/?username=EyupErgin" alt="EyupErgin" /> </p>
+  
 <a href = "https://www.github.com/EyupErgin"> <img align="left" src="https://img.shields.io/github/followers/EyupErgin?style=social"><a/> 
 
 [![](https://img.shields.io/badge/%20My%20Website-%2312100E.svg?&style=for-the-badge&logo=web&logoColor=black&color=blue)](https://eyupergin.com/)
