@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=EyupErgin&show_icons=true">
 
-# Hi! My Name is, Eyüp Ergin! 
+# Hi! My Name is, Eyup Ergin! 
 Coffee :coffee: is how I keep up with `{code}` 
 
 
