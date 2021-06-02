@@ -24,7 +24,7 @@ I'm a high school student who lives in the Turkey. I'm learning how to code. I l
     
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
     
-- :seedling: I’m currently learning HTML, CSS, Python, and C++.
+- :seedling: I’m currently learning HTML, CSS, JS, and Go.
 - :telescope: I’m currently working on creating webpages and learning how to progam.
 - :grinning: I like to sport, code, read, and draw in my free time.
 - :zap: Fun fact: My first line of code was not "Hello World!"
