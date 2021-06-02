@@ -1,1 +1,1 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/EyupErgin/EyupErgin/blob/main/img/head.png" height="175px"/></a>
