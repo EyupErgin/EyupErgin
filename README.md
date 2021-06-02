@@ -60,6 +60,6 @@ For my programming projects, I usually only upload to Github once I make signifi
 [![Eyup's github activity graph](https://activity-graph.herokuapp.com/graph?username=ErginDev&theme=github)](https://github.com/ErginDev/#)
   </details>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
