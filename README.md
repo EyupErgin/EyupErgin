@@ -11,7 +11,5 @@
   <a href="https://github.com/ErginDev"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ErginDev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://www.linkedin.com/in/eyupergin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
-  <a href="  "><img src="  "/></a>
 
   
-  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilsoybali/)
