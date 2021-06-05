@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=EyupErgin">
 </a>
 <p align="center">
-  <a href="https://eyupergin.com/"><img src="https://img.shields.io/badge/My Website-%230077B5.svg?&style=for-the-badge&logo=medium"/></a>
+  <a href="https://eyupergin.com/"><img src="https://img.shields.io/badge/My Website-%230077B5.svg?&style=for-the-badge&logo=medium&color=555555"/></a>
   <a href="https://github.com/ErginDev"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ErginDev?color=236ad3&style=for-the-badge&logo=github&label=Follower"/></a>
   <a href="https://twitter.com/ErginDev"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ErginDev?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
@@ -16,6 +16,7 @@
   <a href="https://www.linkedin.com/in/eyupergin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://eyupergin.com/blog/"><img src="https://img.shields.io/badge/My Blog-%230077B5.svg?&style=for-the-badge&logo=medium"/></a>
   <a href="https://dev.to/ErginDev"><img src="https://img.shields.io/badge/Dev.to-%230077B5.svg?&style=for-the-badge&logo=medium"/></a>
+  <a href="https://ergin.dev/portfolio"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=koding&logoColor=white"/></a>
   <a href="mailto:work@eyupergin.com"><img src="https://img.shields.io/badge/work@eyupergin.com-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
   ---
