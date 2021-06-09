@@ -51,7 +51,7 @@ For my programming projects, I usually only upload to Github once I make signifi
     
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-      <b>Daily Development Table</b>
+      <b>Daily Development Table and Github Stats</b>
       <i>(Click!)</i>
     </summary><br>
 
