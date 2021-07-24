@@ -1,4 +1,14 @@
 <p align="center">
+  <a href="https://eyupergin.com"><img align="center" height="200" src="https://github.com/EyupErgin/EyupErgin/blob/main/img/imemojim2.png" /></a>
+  <h2 align="center"> Eyup S. ERGIN <h2>
+    
+    
+    
+    
+<!--
+  <h4> Cyber Threat Intelligence Analyst & GoLang Developer <h4>
+
+<p align="center">
   <a href="#"><img align="center" height="200" src="https://github.com/EyupErgin/EyupErgin/blob/main/img/imemojim2.png" /></a>
 <h3 align="center">Hey there, I'm <a href="https://eyupergin.com">Eyup Sukru</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
@@ -64,3 +74,5 @@ For my programming projects, I usually only upload to Github once I make signifi
 > <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
+
+-->
