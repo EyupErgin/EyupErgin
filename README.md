@@ -14,7 +14,7 @@
 <p>
   
   
-![Profile views](https://gpvc.arturio.dev/EyupErgin)
+![Profile views](https://komarev.com/ghpvc/?username=EyupErgin&style=flat-square&label=Views)
 
     
 
