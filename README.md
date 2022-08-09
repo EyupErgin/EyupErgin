@@ -14,10 +14,16 @@ Hello, I am a Researcher Intelligence Analyst living in Turkey. I work on Cyber 
 
 I prefer my main system BlackArch Linux as the software languages I use for the development environment and the operating system. In addition, while I meet all my Cyber Security and Software needs in this operating system, I prefer GoLang and C to develop my programs and use them in my projects.
 
-  
+<hr>
 
-  
-  
+### Recent Blog Posts
+Here are my recommended blog posts. My most popular blog posts are listed with Turkish and English options.
+- <a href="https://ergin.dev/intelligence-and-the-importance-of-intelligence">Intelligence and Importance of Intelligence</a>
+- <a href="https://ergin.dev/intelligence-cycle">Intelligence Cycle</a>
+- <a href="https://ergin.dev/basic-principles-of-intelligence">Basic Principles of Intelligence</a>
+- <a href="https://ergin.dev/types-of-intelligence-by-fields/">Types of Intelligence by Fields</a>
+- <a href="https://ergin.dev/web-application-firewall-bypassing-3">Web Application Firewall Bypassing - #3</a>
+
 
 <details>
 <summary><b>📈 Github Stats</b></summary>
