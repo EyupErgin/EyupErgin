@@ -1,5 +1,4 @@
-### Eyup S. ERGIN<br>Cyber & Military, Security and Intelligence Analyst
----
+## Eyup S. ERGIN<br>Cyber & Military, Security and Intelligence Analyst
 <p align="left"> <a href="https://samujjwaal.me/"><img src="https://avatars.githubusercontent.com/u/74828443?v=4" align="right" height="275" /></a> 
 
 <a target="_blank" href="https://ergin.dev/" ><img height="25" src="https://img.shields.io/badge/My Website-%230077B5.svg?&style=for-the-badge&color=gray"></a>
