@@ -24,6 +24,7 @@ Here are my recommended blog posts. My most popular blog posts are listed with T
 - <a href="https://ergin.dev/types-of-intelligence-by-fields/">Types of Intelligence by Fields</a>
 - <a href="https://ergin.dev/web-application-firewall-bypassing-3">Web Application Firewall Bypassing - #3</a>
 
+### Moreover...
 
 <details>
 <summary><b>📈 Github Stats</b></summary>
