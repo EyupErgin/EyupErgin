@@ -9,7 +9,7 @@
 <a target="_blank" href="https://ergin.dev" ><img height="25" src="https://komarev.com/ghpvc/?username=EyupErgin&style=flat-square&label=Views" alt="Profile Views"></a>
 <p>
   
-Hello, I am an Investigative Intelligence Analyst living in Turkey. I work on Military and Cyber Threat Intelligence. In addition to my 2 years of experience in the field of cyber security, I have been continuously improving myself for 4 years.<br><br>As an individual, I do research in the fields of Operational, Strategic and Tactical Intelligence. I am developing tools on satellite and signal intelligence systems and detection of terrorist organization attacks. In the field of Cyber Security, I continue my research and development on cyber wars, ransomware attacks, system and network security and malware. You can find all my research by browsing my blog.
+Hello, I am a Researcher Intelligence Analyst living in Turkey. I work on Cyber Security and Cyber Intelligence. In addition to my 2 years of experience in the field of cyber security, I have been constantly improving myself for 4 years. I also do research and development on military technologies. <br><br>As an individual, I do research in the fields of Operational, Strategic and Tactical Intelligence. I am developing tools on satellite and signal intelligence systems and detection of terrorist organization attacks. In the field of Cyber Security, I continue my research and development on cyber wars, ransomware attacks, system and network security and malware. You can find all my research by browsing my blog.
   
   
   
