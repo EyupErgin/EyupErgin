@@ -1,5 +1,5 @@
-### Eyup S. ERGIN<br>Cyber & Military Security and Intelligence  Analyst
-
+### Eyup S. ERGIN<br>Cyber & Military, Security and Intelligence Analyst
+---
 
 
 
