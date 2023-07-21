@@ -10,7 +10,7 @@ Hello, I am a Researcher Intelligence Analyst living in Turkey. I work on Cyber 
 
 <hr>
   
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&color=gray"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&color=gray"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
 I prefer my main system BlackArch Linux as the software languages I use for the development environment and the operating system. In addition, while I meet all my Cyber Security and Software needs in this operating system, I prefer Python, GoLang and C to develop my programs and use them in my projects.
 
