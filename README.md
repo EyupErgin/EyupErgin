@@ -1,4 +1,4 @@
-<h2>Eyup S. ERGIN<br>Cyber & Military, Security and Intelligence Analyst</h2> 
+<h2 class="red-text" style="color: white;">Eyup S. ERGIN<br>Cyber & Military, Security and Intelligence Analyst</h2> 
 <p align="left"> <a href="https://ergin.dev/"><img target="_blank" src="https://avatars.githubusercontent.com/u/74828443?v=4" align="right" height="275" /></a> 
 <a target="_blank" href="https://ergin.dev/" ><img target="_blank" height="25" src="https://img.shields.io/badge/Website%20&%20Blog-%230077B5.svg?&style=for-the-badge&color=gray"></a>
 <a target="_blank" href="https://www.linkedin.com/in/eyupergin/" ><img target="_blank" height="25" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&color=gray&logo=linkedin " alt="Linkedin : Eyup S. Ergin"></a>
