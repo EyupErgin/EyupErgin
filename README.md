@@ -19,12 +19,12 @@ I prefer my main system BlackArch Linux as the software languages I use for the 
 <hr>
 
 <h3>Recent Blog Posts</h3>
-Here are my recommended blog posts. My most popular blog posts are listed with Turkish and English options.
-- <a href="https://ergin.dev/intelligence-and-the-importance-of-intelligence">Intelligence and Importance of Intelligence</a>
-- <a href="https://ergin.dev/intelligence-cycle">Intelligence Cycle</a>
-- <a href="https://ergin.dev/basic-principles-of-intelligence">Basic Principles of Intelligence</a>
-- <a href="https://ergin.dev/types-of-intelligence-by-fields/">Types of Intelligence by Fields</a>
-- <a href="https://ergin.dev/web-application-firewall-bypassing-3">Web Application Firewall Bypassing - #3</a>
+Here are my recommended blog posts. My most popular blog posts are listed with Turkish and English options. <br>
+- <a href="https://ergin.dev/intelligence-and-the-importance-of-intelligence">Intelligence and Importance of Intelligence</a> <br>
+- <a href="https://ergin.dev/intelligence-cycle">Intelligence Cycle</a> <br>
+- <a href="https://ergin.dev/basic-principles-of-intelligence">Basic Principles of Intelligence</a> <br>
+- <a href="https://ergin.dev/types-of-intelligence-by-fields/">Types of Intelligence by Fields</a> <br>
+- <a href="https://ergin.dev/web-application-firewall-bypassing-3">Web Application Firewall Bypassing - #3</a> <br>
 
 <h3>Moreover...</h3>
 
